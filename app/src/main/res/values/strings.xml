@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsingStrings</string>
+    <string name="Dan1">Hello World! Danz Text 1</string>
+    <string name="Dan2">Hello World! Danz Text 2</string>
+</resources>
